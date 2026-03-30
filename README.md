@@ -50,6 +50,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -113,4 +114,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
