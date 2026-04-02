@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
@@ -54,10 +55,12 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
