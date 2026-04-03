@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
