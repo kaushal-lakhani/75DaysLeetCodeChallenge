@@ -144,4 +144,12 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
