@@ -1,18 +1,21 @@
 class Solution:
-    def totalFruit(self, frt: List[int]) -> int:
-        basket = {}
-        sx,ex = 0,0
-        n = len(frt)
-        mx = 0
+    def totalFruit(self, fruits: List[int]) -> int:
+        hm = defaultdict(int)
+        left = 0
+        ans = 0
+        picked = 0
 
-        while ex<n:
-            basket[frt[ex]] = ex
+        for right in range(len(fruits)):
+            if hm[fruits[right]] == 0:
+                picked += 1
+            hm[fruits[right]] += 1
+
+            while picked > 2:
+                hm[fruits[left]] -= 1
+                if hm[fruits[left]] == 0:
+                    picked -= 1
+                left += 1
             
-            if len(basket) > 2:
-                t = frt[sx]
-                sx = basket[frt[sx]]+1
-                del basket[t]
-            if len(basket) <= 2:
-                mx = max(mx, ex-sx+1)
-            ex += 1
-        return mx
+            ans = max(ans, right - left + 1)
+        
+        return ans
