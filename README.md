@@ -35,6 +35,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -165,6 +166,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
