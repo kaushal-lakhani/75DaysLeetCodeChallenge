@@ -42,6 +42,7 @@
 | [0875-koko-eating-bananas](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0567-permutation-in-string](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
