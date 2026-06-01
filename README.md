@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
@@ -358,4 +360,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
