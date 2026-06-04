@@ -26,6 +26,7 @@
 | [0162-find-peak-element](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -97,6 +98,7 @@
 | [0042-trapping-rain-water](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaushal-lakhani/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
